@@ -1,0 +1,11 @@
+E:\воркище\Заявки Ломанов\Requests(04.08.2017)\obj\Debug\requests_app.csprojResolveAssemblyReference.cache
+E:\воркище\Заявки Ломанов\Requests(04.08.2017)\bin\Telerik.Web.UI.dll
+E:\воркище\Заявки Ломанов\Requests(04.08.2017)\bin\requests_app.dll.config
+E:\воркище\Заявки Ломанов\Requests(04.08.2017)\bin\requests_app.pdb
+E:\воркище\Заявки Ломанов\Requests(04.08.2017)\obj\Debug\requests_app.dll
+E:\воркище\Заявки Ломанов\Requests(04.08.2017)\obj\Debug\requests_app.pdb
+E:\воркище\Картриджи\Cartridges(19.10.2017)\bin\requests_app.dll.config
+E:\воркище\Картриджи\Cartridges(19.10.2017)\bin\requests_app.pdb
+E:\воркище\Картриджи\Cartridges(19.10.2017)\obj\Debug\requests_app.csprojResolveAssemblyReference.cache
+E:\воркище\Картриджи\Cartridges(19.10.2017)\obj\Debug\requests_app.dll
+E:\воркище\Картриджи\Cartridges(19.10.2017)\obj\Debug\requests_app.pdb

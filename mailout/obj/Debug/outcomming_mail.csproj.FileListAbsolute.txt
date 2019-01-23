@@ -1,0 +1,18 @@
+E:\воркище\Общий Отдел (исходящая почта)\Outcoming mail\bin\outcomming_mail.dll.config
+E:\воркище\Общий Отдел (исходящая почта)\Outcoming mail\bin\outcomming_mail.dll
+E:\воркище\Общий Отдел (исходящая почта)\Outcoming mail\bin\outcomming_mail.pdb
+E:\воркище\Общий Отдел (исходящая почта)\Outcoming mail\obj\Debug\outcomming_mail.csprojResolveAssemblyReference.cache
+E:\воркище\Общий Отдел (исходящая почта)\Outcoming mail\obj\Debug\outcomming_mail.dll
+E:\воркище\Общий Отдел (исходящая почта)\Outcoming mail\obj\Debug\outcomming_mail.pdb
+E:\воркище\Общий Отдел (исходящая почта)\outcomming_mail(one more copy)\obj\Debug\outcomming_mail.csprojResolveAssemblyReference.cache
+E:\воркище\Общий Отдел (исходящая почта)\outcomming_mail(one more copy)\obj\Debug\outcomming_mail.dll
+E:\воркище\Общий Отдел (исходящая почта)\outcomming_mail(one more copy)\obj\Debug\outcomming_mail.pdb
+E:\воркище\Общий Отдел (исходящая почта)\outcomming_mail(one more copy)\bin\outcomming_mail.dll.config
+E:\воркище\Общий Отдел (исходящая почта)\outcomming_mail(one more copy)\bin\outcomming_mail.dll
+E:\воркище\Общий Отдел (исходящая почта)\outcomming_mail(one more copy)\bin\outcomming_mail.pdb
+C:\Для гостей\mailout\bin\outcomming_mail.dll.config
+C:\Для гостей\mailout\bin\outcomming_mail.dll
+C:\Для гостей\mailout\bin\outcomming_mail.pdb
+C:\Для гостей\mailout\obj\Debug\outcomming_mail.csprojResolveAssemblyReference.cache
+C:\Для гостей\mailout\obj\Debug\outcomming_mail.dll
+C:\Для гостей\mailout\obj\Debug\outcomming_mail.pdb

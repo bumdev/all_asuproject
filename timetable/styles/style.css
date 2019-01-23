@@ -1,0 +1,327 @@
+﻿/* Globals */
+* { margin: 0; padding: 0; }
+body{font-family: Verdana;
+     
+
+     }
+/*a { color: #73a9d8; font-size:14px;  font-weight:bold;}
+a:hover { text-decoration: none; }
+
+a img { border: 0px none transparent; }*/
+
+p { margin: 0 0 18px 0; }
+
+.LogoOverlay { margin: 0 0 0 0px; width: 388px; height: 170px; display: block; position: absolute; top: 0px;background-image:url(../images/OverLayLogo.png); background-repeat:no-repeat;}
+html>/* */body .LogoOverlay { margin-left: 8px; }
+.TextBox { border: 1px solid #949494; }
+
+.btn-success {
+  background: #00C851;
+}
+.btn-success:hover, .btn-success:focus {
+  background-color: #00d255 !important;
+}
+.btn-success.active {
+  background-color: #006228 !important;
+}
+
+
+.FormButton { line-height: normal; cursor: pointer; margin: 0 10px 0 0; text-decoration: none;  height: 26px; text-align: center; float: left; background-image: url(../images/btn_form_left.gif); background-repeat: no-repeat; }
+.FormButtonLarge { line-height: normal; cursor: pointer; margin: 0 10px 0 0; text-decoration: none;  height: 26px; text-align: center; float: left; background-image: url(../images/btn_form_left.gif); background-repeat: no-repeat; }
+.FormButtonRight { line-height: normal; cursor: pointer; margin: 0 10px 0 0; text-decoration: none;  height: 26px; text-align: center; float: right; background-image: url(../images/btn_form_left.gif); background-repeat: no-repeat; }
+.FormButton span { cursor: pointer; float: left; height: 19px; font-weight: bold; padding: 5px 12px 2px 12px; color: #254308; font-size: 12px; line-height: normal; background-image: url(../images/btn_form_right.gif); background-repeat: no-repeat; background-position: right 0; } 
+.FormButton:hover { background-position: 0 -26px; }
+.FormButton:hover span { background-position: right -26px; line-height: normal; }
+.FormButton.Gradient { background-repeat: repeat-x; color: #ffffff; font-weight: bold; height: 28px; float: left; padding: 11px 18px 0 17px; margin: 10px 0 0 0; background-position: 0 -39px; background-image: url(../images/btn_green_bg.gif); }
+.FormButton.Gradient:hover { background-position: 0 0; }
+.FormButton.Solid { background-repeat: repeat-x; color: #ffffff; padding: 0 0 0 5px; font-weight: bold; height: 26px; float: left; margin: 10px 0 0 0; background-image: none; background-color: #8cc63f; }
+.FormButtonLarge.Solid { background-repeat: repeat-x; color: #ffffff; padding: 0 0 0 5px; font-weight: bold; height: 26px; float: left; margin: 10px 0 0 0; background-image: none; background-color: #8cc63f; }
+.FormButtonRight.Solid { background-repeat: repeat-x; color: #ffffff; padding: 0 0 0 5px; font-weight: bold; height: 26px; float: right; margin: 10px 0 0 0; background-image: none; background-color: #8cc63f; }
+.FormButton.Solid span { background-image: none; color: #ffffff; height: 21px; padding: 5px 5px 0 0; }
+.FormButton.Solid.RightArrow {  padding: 0 0 0 5px; }
+.FormButton.Solid.RightArrow2 {  padding: 0 0 0 5px; margin-left:30px;}
+.FormButton.Solid.LeftArrow {  padding: 0 5px 0 0;  }
+.FormButton.Solid.RightArrow2 span, .FormButton.Solid.RightArrow:hover span { padding-right: 50px; padding-left: 14px; background-position: right;background-image: url(../images/btn_green_flat_arrow_right.gif); background-repeat: no-repeat; }
+.FormButton.Solid.RightArrow span, .FormButton.Solid.RightArrow:hover span { padding-right: 50px; padding-left: 14px; background-position: right;background-image: url(../images/btn_green_flat_arrow_right.gif); background-repeat: no-repeat; }
+.FormButton.Solid.LeftArrow span, .FormButton.Solid.LeftArrow:hover span { padding-right: 14px; padding-left: 50px;  background-position: left; background-image: url(../images/btn_green_flat_arrow_left.gif); background-repeat: no-repeat; }
+.FormButton.Solid.Skinny { height: 18px; }
+.FormButtonLarge.Solid.Skinny { height: 26px; }
+.FormButtonRight.Solid.Skinny { height: 18px; }
+.FormButton.Solid.Skinny span { background-image: none; color: #ffffff; height: 16px; padding: 2px 5px 0 0; }
+
+.FormButton.Gradient.Reduced { background-repeat: repeat-x; color: #ffffff; font-weight: bold; height: 19px; float: left; padding: 8px 18px 0 17px; margin: 10px 0 0 0; background-position: 0 -45px; background-image: url(../images/btn_green_bg.gif); }
+.FormButton.Gradient.Reduced:hover { background-position: 0 -6px; }
+
+.FormBox { background-color: #8cc63f; background-image: url(../images/btn_greenBig_bg.gif); background-repeat: repeat-x;}
+.btnPrevious { margin-right: 15px !important;  }
+
+.CommonFormElement { clear: both; }
+.CommonFormBlock { }
+.CommonFormDescription { width: 135px; float: left; text-align:right; padding-right:10px;  font-size:14px;}
+.CommonFormData { float: left; margin: 0 10px 5px 0; }
+.CommonFormData.FixedWidth { width: 210px; }
+
+h1 { font-size: 18px; font-weight: bold; text-decoration: none; text-transform: uppercase; color: #231f20; margin: 0 0 21px 0; }
+h2 { font-size: 16px; font-weight: bold; text-decoration: none; color: #231f20; margin: 0 0 21px 0; }
+h3 { font-size: 12px; font-weight: bold; text-decoration: none; color: #231f20; margin: 0 0 20px 0; }
+
+select { letter-spacing: normal; }
+
+.CommonErrorMessage { font-size: 10px; color: #666666; margin: 0 0 15px 0; padding: 5px; background-color: #dddddd; border: 1px solid #aaaaaa; display: block; }
+.CommonFormButtons { margin: 20px 0 0 0; padding: 10px 0 0 0; background-image: url(../images/rule_grey_white_fade_hori_site_wide.gif); background-repeat: no-repeat; background-position: top left; clear: both;  }  
+.CleanNotification, .CleanNotification * { border-color: #015D01; background-color: #a5cf9e; color: #015d01; }
+.DirtyNotification, .DirtyNotification * { background-color: #ffd4d4; color: #ff0000; border-color: #db7777; }
+.Validator { color: #b10000; }
+.ValidationSummary { clear: both; margin: 15px 0 20px 0; padding: 5px; background-color: #ffd4d4; border: 1px solid #db7777; display: block; }
+
+.ExpandableHeader { margin: 10px 0 0 0; }
+.ExpandableHeader.Collapsed { }
+.ExpandableHeader .ExpandImage { margin: 0 5px 0 0px; background-image: url(../images/icon_expand_contract_panel.gif); background-repeat: no-repeat; height: 11px; width: 11px; }
+.ExpandableHeader.Collapsed .ExpandImage { background-position: -11px 0; }
+.ExpandableHeader:hover .ExpandImage { background-position: 0 -11px; }
+.ExpandableHeader.Collapsed:hover .ExpandImage { background-position: -11px -11px; }
+.ExpandablePanel { overflow: hidden; height: 0px; }
+
+.PermissionListContainer .CheckBox { padding: 3px 3px 3px 10px; }
+.PermissionListContainer .CheckBox * { font-size: 10px; line-height: normal; }
+.PermissionListContainer .CheckBox input { margin: 0 5px 0 0 ; }
+.PermissionListContainer .CheckBox table td { width: 200px; }
+
+/*ul, ul li { list-style-type: none; }
+ul li { padding: 0 0 0 15px; background-image: url(../images/bul_black_circle.gif); background-repeat: no-repeat; background-position: 0px 7px; }*/
+
+/* Site Container */
+
+.MasterContainer { width: 968px; margin: 0 auto 0; }
+
+.MasterHeader { width: 950px; margin: 0 0 0 8px; background-repeat: no-repeat; height: 50px;  background-image: url(../images/bg_site_headerOld.jpg); }
+.MasterContent { width: 950px; float: left; }
+
+.LogoLink { display: block; text-decoration: none;  }
+.LogoBottom .LogoLink { height: 85px; width: 220px; }
+.MasterHeader .LogoLink { height: 50px; width: 240px; }
+
+.AnimatedLogoVisible .LogoLink, .AnimatedLogoVisible .LogoBottom { background-image: none !important; }
+
+.SiteContent {  width: 968px; background-color: transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/bg_site_shadow.png',sizingMethod='scale');  }
+html>/* */body .SiteContent { background-image: url(../images/bg_site_shadow.png); background-repeat: repeat-y;  }
+
+.SiteBody { background-color: White; width: 950px; height: 424px; float: left; padding: 0 0 27px 0; }
+html>body .SiteBody { height: auto; min-height: 424px; }
+.SiteBodyBottom { clear: both; width: 968px; height: 57px;  background-color: transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/bg_site_rings.png',sizingMethod='crop');  }
+html>/* */body .SiteBodyBottom { background-image: url(../images/bg_site_rings.png); background-repeat: no-repeat; }
+
+.ShadowGutter { float: left; height: 100px; background-repeat: no-repeat; }
+.ShadowGutter.LeftShadow { width: 8px; background-image: url(../images/sdw_top_left.jpg); background-position: right; }
+.ShadowGutter.RightShadow { width: 10px; background-image: url(../images/sdw_top_right.jpg); }
+
+
+
+/* GridView */
+
+.GridView { clear: both; margin: 10px 0 10px 0; border-color: #eeeeee; letter-spacing: normal; font-size: 10px; }
+.GridView td, .GridView th { padding: 3px; text-align: left; vertical-align: top; padding-top: 5px; }
+.GridView .GridViewAltRow td { background-color: #f5f5f5;font-size:13px; }
+.GridView .GridViewRow td { background-color: #ffffff; font-size:13px; }
+.GridView .GridViewHeader th { line-height: normal; font-size: 12px; background-color:Silver;  color:black;}
+.GridView .GridViewHeader th a { display: block; margin: 0 10px 0 0;color: black; }
+.GridView .GridViewFooter td *, .GridView .GridViewEditingRow td * {  font-size: 10px; }
+.GridView .GridViewFooter td input, .GridView .GridViewEditingRow td input { width: 50px; }
+.GridView .HighlightedRow td { background-color: #f2ffe6; }
+.GridView .GridViewRow td.Sorted { background-color: #f2f2f2; }
+.GridView .GridViewAltRow td.Sorted { background-color: #f0f0f0; }
+.GridView .GridViewRow.HighlightedRow td.Sorted { background-color: #f2f6ee; }
+.GridView .GridViewAltRow.HighlightedRow td.Sorted { background-color: #f1f4ed; }
+.GridView th.Sorted { background-color: #f2f2f2; }
+.GridView th.SortAscending a { background-image: url(../images/icon_arrow_green_up.gif); background-repeat: no-repeat; background-position: right; }
+.GridView th.SortDescending a { background-image: url(../images/icon_arrow_green_down.gif); background-repeat: no-repeat; background-position: right; }
+.GridView .GridViewPager td { font-size: 10px; }
+.GridView .FormButton span { font-size: 11px; }
+
+/* End GridView */
+
+
+/* Overlay */
+
+.Overlay { position: absolute; z-index: 300; top: 0px; left: 0px; }
+
+
+.TheHandle { position:relative; background-color:transparent; background-repeat:no-repeat; }
+.TheHandle .Center { float: left; margin:0; padding:0; height:33px; background-position:top left; background-repeat:repeat-x; background-color:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/ovr_header_bg.png',sizingMethod='scale'); z-index:300; }
+html>/* */body .TheHandle .Center { background-image: url(../images/ovr_header_bg.png); }
+.TheHandle .Left { float: left; margin:0; padding:0; width:12px; height:33px; background-position:top left; background-repeat:no-repeat; background-color:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/ovr_header_tl.png',sizingMethod='scale'); }
+html>/* */body .TheHandle .Left { background-image: url(../images/ovr_header_tl.png); }
+.TheHandle .Right {  float: right; margin:0; padding:0; width:12px; height:33px; background-position:top right; background-repeat:no-repeat; background-color:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/ovr_header_tr.png',sizingMethod='scale'); }
+html>/* */body .TheHandle .Right { background-image: url(../images/ovr_header_tr.png); }
+.TheHandle .Center .Title { float: left; font-size: 12px; margin-top: 10px; font-weight: bold; color: #ffffff; }
+.TheHandle .CloseLink { width: 7px; height: 7px; float: right; background-repeat: no-repeat; background-image:url(../images/ovr_btn_close.gif); margin: 15px 4px 0 0; }
+
+
+.TheBody { clear: both; }
+.TheBody .Center { float: left; text-align: justify; background-color: #ffffff; overflow: visible; }
+html>/* */body .TheBody .Center {  }
+.TheBody .Left { float: left; margin:0; padding:0; width: 12px; background-position:top left; background-repeat:repeat-y; background-color: transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/ovr_body_left_bg.png',sizingMethod='scale'); }
+html>/* */body .TheBody .Left { background-image: url(../images/ovr_body_left_bg.png); }
+.TheBody .Right { float: right;margin:0; padding:0; width: 12px; background-position: top; background-repeat:repeat-y; background-color:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/ovr_body_right_bg.png',sizingMethod='scale'); }
+html>/* */body .TheBody .Right { background-image: url(../images/ovr_body_right_bg.png); }
+
+.TheFooter { height: 28px; clear: both; }
+.TheFooter * { line-height: 0; font-size: 0.1%;  }
+.TheFooter .Center { background-color: red; float: left; margin:0; padding:0; height: 28px; background-position:top left; background-repeat:repeat-x; background-color:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/ovr_footer_bg.png',sizingMethod='scale'); }
+html>/* */body .TheFooter .Center { background-image: url(../images/ovr_footer_bg.png); }
+.TheFooter .Left { float: left; margin:0; padding:0; width:12px; height:28px; background-position:top left; background-repeat:no-repeat; background-color:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/ovr_footer_bl.png',sizingMethod='scale'); }		
+html>/* */body .TheFooter .Left { background-image: url(../images/ovr_footer_bl.png); }
+.TheFooter .Right { float: right; margin:0; padding:0; width:12px; height:28px; background-position:top right; background-repeat:no-repeat; background-color:transparent; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/ovr_footer_br.png',sizingMethod='scale'); }
+html>/* */body .TheFooter .Right { background-image: url(../images/ovr_footer_br.png); }
+
+.Overlay_Backdrop { width:100px; height:100px; border:0; padding:0; margin:0; opacity:0; background:transparent; z-index:100; position: absolute; left:0px; top:0px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/ovr_background.png',sizingMethod='scale'); }
+html>body .Overlay_Backdrop { background-color: #000000; filter:alpha(opacity=44); -moz-opacity:.44; opacity:.44; }
+.Overlay_Backdrop iframe { display:none;display:block; position:absolute; top:0; left:0; z-index:-1; filter:mask(); width:3000px; height:3000px; }
+html>body .Overlay_Backdrop iframe { display: none; }
+
+.ContainingDiv { width: 100%; position: absolute; top: 0; left: 0; }
+
+.OverlayBodyContainer { padding: 10px 10px 5px 10px; }
+
+/* End Overlay */
+
+
+
+/* Utility Classes */
+.GreeBg { background-color: #85C13B; padding-left:3px; padding-right: 3px; }
+.GreenBorder { border: solid 1px #85C13B; padding-top: 5px; padding-left: 3px; margin-bottom: 5px; }
+.LeftFloat { float: left; }
+.RightFloat { float: right !important; }
+.LeftAlign { text-align: left; }
+.RightAlign { text-align: right; }
+.CenterAlign { text-align: center; }
+.TopAlign { vertical-align: top; }
+.BottomAlign { vertical-align: bottom; }
+.ClearBoth { clear: both; float: none; font-size: 0.1%; width: 1px; height: 0px; background-color: Transparent; }
+.ClearLeft { clear: left; float: none; font-size: 0.1%; height: 0px; }
+.ClearBoth.Margin { margin: 0 0 3px 0; }
+html>/* */body .ClearBoth.Margin { margin: 0 0 0 0; }
+.ClearBothSimple { clear: both; }
+.ClearLeftSimple { clear: left; }
+.Hidden { display: none; }
+.DisplayInline { display: inline; }
+.DisplayBlock { display: block; }
+.MaxWidth { width: 100%; }
+.HalfWidth { width: 50%; }
+.Link { cursor: pointer; }
+.FontSize9px { font-size: 9px; }
+.FontSize10px { font-size: 10px; }
+.FontSize11px { font-size: 11px !important; }
+.FontSize12px { font-size: 12px; }
+.FontSize14px { font-size: 14px; }
+.FontSize18px { font-size: 18px; }
+.NoMargin { margin: 0; }
+.NoPadding { padding: 0; }
+.BoldText { font-weight: bold; }
+.LineHeightNormal { line-height: normal; }
+.NormalWeight { font-weight: normal !important;  }
+.Width25px { width: 25px; }
+.Width50px { width: 50px; }
+.Width60px { width: 60px; }
+.Width75px { width: 75px; }
+.Width100px { width: 100px; }
+.Width125px { width: 125px; }
+.Width150px { width: 150px; }
+.Width175px { width: 175px; }
+.Width200px { width: 200px; }
+.Width250px { width: 250px; }
+.Width600px { width: 580px; }
+.LeftMargin10px { margin-left: 10px !important; }
+.RightMargin10px { margin-right: 10px !important; }
+.NoTopMargin { margin-top: 0px !important; }
+.NoBottomMargin { margin-bottom: 0px !important; }
+.NoRightMargin { margin-right: 0px !important; }
+.ReducedTopMargin { margin-top: 5px; }
+.ReducedBottomMargin { margin-bottom: 5px; }
+.MarginTop25px { margin-top: 25px; }
+.MarginTop15px { margin-top: 15px; }
+.MarginBottom10px { margin-top: 10px; }
+.MarginBottom5px { margin-top: 5px; }
+.MarginRight10px { margin-right: 10px !important; }
+.MarginLeft20px { margin-left: 20px; }
+.MarginLeft10px { margin-left: 10px; }
+.BottomMargin { margin-bottom: 20px; }
+.GreenText { color: #72b630; }
+.InlineTitle { font-weight: bold; }
+.Indented { margin: 0 0 0 10px; }
+.SmallText { font-size: 10px  !important; }
+.LightText { color: #aaaaaa !important; }
+/* End Utility Classes */
+
+
+
+
+/****************************************/
+
+
+.FormItem{margin-top:10px;}
+.CorporateList
+{
+    text-decoration:none;
+    color:Black;
+    font-weight:normal;
+}
+.Left
+{
+    float:left;
+}
+.Right
+{
+    float:right;
+}
+.Close{ background-image:url('../images/icons/close.png'); width:20px; height:20px;background-repeat: no-repeat; float:right; margin-left:8px;}
+.Close span{ background-image:url('../images/icons/close.png'); width:18px; height:18px;background-repeat: no-repeat;}
+
+
+
+span.tooltip {
+      position: absolute;
+      width: 100px;
+      height: 20px;
+      line-height: 20px;
+      padding: 10px;
+      font-size: 14px;
+      text-align: center;
+      color: rgb(113, 157, 171);
+      background: rgb(255, 255, 255);
+      border: 4px solid rgb(255, 255, 255);
+      border-radius: 5px;
+      text-shadow: rgba(0, 0, 0, 0.1) 1px 1px 1px;
+      box-shadow: rgba(0, 0, 0, 0.1) 1px 1px 2px 0px;
+}
+
+span.tooltip:after {
+      content: "";
+      position: absolute;
+      width: 0;
+      height: 0;
+      border-width: 10px;
+      border-style: solid;
+      border-color: #FFFFFF transparent transparent transparent;
+      top: 44px;
+      left: 50px;
+}
+.WaterText
+{
+    color:silver;
+    font-weight:bold;
+    }
+.label{font-size:12px; font-weight:bold;}
+
+.Error{font-size:12px;}
+
+.PanVodomerSearch
+{
+    padding:5px; width:685px; height:350px; top:110px; position:absolute; z-index:1010; background:white;  border:3px solid red;
+    }
+.Step2
+{
+    width:100%;height:100%; background: rgba(0, 0, 0, 0.7); top:0; left:0;
+    position:static;
+    z-index:1009;
+    }

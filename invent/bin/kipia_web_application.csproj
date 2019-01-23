@@ -1,0 +1,1069 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5F192B1B-66AD-4715-A015-FCA32DEE4E80}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>kipia_web_application</RootNamespace>
+    <AssemblyName>kipia_web_application</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\..\..\WebSites\kipia\Bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ConvincingMail.AdvancedAutoSuggest">
+      <HintPath>..\..\..\WebSites\kipia\Bin\ConvincingMail.AdvancedAutoSuggest.dll</HintPath>
+    </Reference>
+    <Reference Include="DocX">
+      <HintPath>D:\КИПиА\DocX.dll</HintPath>
+    </Reference>
+    <Reference Include="Excel">
+      <HintPath>C:\Users\KomisarenkoAP\Desktop\Новая папка\Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelLibrary">
+      <HintPath>C:\Users\KomisarenkoAP\Desktop\ExcelLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="FirebirdSql.Data.FirebirdClient">
+      <HintPath>..\..\..\WebSites\kipia\Bin\FirebirdSql.Data.FirebirdClient.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>C:\Users\KomisarenkoAP\Desktop\Новая папка\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip">
+      <HintPath>..\..\..\..\Загрузки\.net 4.0\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="JuiceUI">
+      <HintPath>..\packages\JuiceUI.1.1.1\lib\net40\JuiceUI.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI">
+      <HintPath>..\..\..\..\Загрузки\.net 4.0\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Telerik.Web.UI">
+      <HintPath>..\distributions\RadControls for ASP.NET AJAX\2013.1.403.40\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Web.UI.Skins">
+      <HintPath>..\distributions\RadControls for ASP.NET AJAX\2013.1.403.40\Telerik.Web.UI.Skins.dll</HintPath>
+    </Reference>
+    <Reference Include="UrbanControls">
+      <HintPath>..\..\..\WebSites\kipia\Bin\UrbanControls.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AccountParsing.aspx" />
+    <Content Include="Admin\AdminLogOut.aspx" />
+    <Content Include="Admin\Default.aspx" />
+    <Content Include="Admin\Panel.aspx" />
+    <Content Include="Admin\Permissions.aspx" />
+    <Content Include="Admin\UserDetails.aspx" />
+    <Content Include="Admin\UserListing.aspx" />
+    <Content Include="App_Data\RadCaptcha\0.wav" />
+    <Content Include="App_Data\RadCaptcha\1.wav" />
+    <Content Include="App_Data\RadCaptcha\2.wav" />
+    <Content Include="App_Data\RadCaptcha\3.wav" />
+    <Content Include="App_Data\RadCaptcha\4.wav" />
+    <Content Include="App_Data\RadCaptcha\5.wav" />
+    <Content Include="App_Data\RadCaptcha\6.wav" />
+    <Content Include="App_Data\RadCaptcha\7.wav" />
+    <Content Include="App_Data\RadCaptcha\8.wav" />
+    <Content Include="App_Data\RadCaptcha\9.wav" />
+    <Content Include="App_Data\RadCaptcha\A.wav" />
+    <Content Include="App_Data\RadCaptcha\B.wav" />
+    <Content Include="App_Data\RadCaptcha\C.wav" />
+    <Content Include="App_Data\RadCaptcha\D.wav" />
+    <Content Include="App_Data\RadCaptcha\E.wav" />
+    <Content Include="App_Data\RadCaptcha\F.wav" />
+    <Content Include="App_Data\RadCaptcha\G.wav" />
+    <Content Include="App_Data\RadCaptcha\H.wav" />
+    <Content Include="App_Data\RadCaptcha\I.wav" />
+    <Content Include="App_Data\RadCaptcha\J.wav" />
+    <Content Include="App_Data\RadCaptcha\K.wav" />
+    <Content Include="App_Data\RadCaptcha\L.wav" />
+    <Content Include="App_Data\RadCaptcha\M.wav" />
+    <Content Include="App_Data\RadCaptcha\N.wav" />
+    <Content Include="App_Data\RadCaptcha\O.wav" />
+    <Content Include="App_Data\RadCaptcha\P.wav" />
+    <Content Include="App_Data\RadCaptcha\Q.wav" />
+    <Content Include="App_Data\RadCaptcha\R.wav" />
+    <Content Include="App_Data\RadCaptcha\S.wav" />
+    <Content Include="App_Data\RadCaptcha\T.wav" />
+    <Content Include="App_Data\RadCaptcha\U.wav" />
+    <Content Include="App_Data\RadCaptcha\V.wav" />
+    <Content Include="App_Data\RadCaptcha\W.wav" />
+    <Content Include="App_Data\RadCaptcha\X.wav" />
+    <Content Include="App_Data\RadCaptcha\Y.wav" />
+    <Content Include="App_Data\RadCaptcha\Z.wav" />
+    <Content Include="Check\AddAbonent.aspx" />
+    <Content Include="Check\FabonentDet.aspx" />
+    <Content Include="Check\FJournal.aspx" />
+    <Content Include="Check\PaymentViewer.aspx" />
+    <Content Include="Check\Registry.aspx" />
+    <Content Include="Check\Report.aspx" />
+    <Content Include="Check\Sellers.aspx" />
+    <Content Include="Check\UAbonentDet.aspx" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\themes\base\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\themes\base\jquery-ui.css" />
+    <Content Include="Content\themes\base\jquery.ui.accordion.css" />
+    <Content Include="Content\themes\base\jquery.ui.all.css" />
+    <Content Include="Content\themes\base\jquery.ui.autocomplete.css" />
+    <Content Include="Content\themes\base\jquery.ui.base.css" />
+    <Content Include="Content\themes\base\jquery.ui.button.css" />
+    <Content Include="Content\themes\base\jquery.ui.core.css" />
+    <Content Include="Content\themes\base\jquery.ui.datepicker.css" />
+    <Content Include="Content\themes\base\jquery.ui.dialog.css" />
+    <Content Include="Content\themes\base\jquery.ui.menu.css" />
+    <Content Include="Content\themes\base\jquery.ui.progressbar.css" />
+    <Content Include="Content\themes\base\jquery.ui.resizable.css" />
+    <Content Include="Content\themes\base\jquery.ui.selectable.css" />
+    <Content Include="Content\themes\base\jquery.ui.slider.css" />
+    <Content Include="Content\themes\base\jquery.ui.spinner.css" />
+    <Content Include="Content\themes\base\jquery.ui.tabs.css" />
+    <Content Include="Content\themes\base\jquery.ui.theme.css" />
+    <Content Include="Content\themes\base\jquery.ui.tooltip.css" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\themes\base\minified\jquery-ui.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.accordion.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.autocomplete.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.button.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.core.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.datepicker.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.dialog.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.menu.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.progressbar.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.resizable.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.selectable.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.spinner.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.tooltip.min.css" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-bg_diagonals-small_25_c9c9c9_40x40.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-bg_flat_0_313f3c_40x100.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-bg_flat_0_4d4d4d_40x100.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-bg_flat_100_f1eeee_40x100.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-bg_highlight-soft_50_f7e17d_1x100.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-bg_highlight-soft_65_e9f245_1x100.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-bg_highlight-soft_75_59c9c0_1x100.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-bg_highlight-soft_75_d8ff94_1x100.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-bg_inset-soft_95_f46f5d_1x100.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-icons_16837f_256x240.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-icons_186764_256x240.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-icons_834916_256x240.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\images\ui-icons_9f1d1d_256x240.png" />
+    <Content Include="Content\themes\Fresh-Squeezed\jquery-ui-1.9.0.custom.css" />
+    <Content Include="Content\themes\Supercharged\images\ui-bg_flat_0_303030_40x100.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-bg_flat_100_383838_40x100.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-bg_flat_75_f2f2f2_40x100.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-bg_inset-hard_5_2b2b2b_1x100.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-bg_inset-soft_15_5e5e5e_1x100.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-bg_inset-soft_45_ffc905_1x100.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-bg_inset-soft_75_ffec52_1x100.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-bg_inset-soft_95_ff6124_1x100.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-icons_1c1c1c_256x240.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-icons_303030_256x240.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-icons_774322_256x240.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-icons_8a4e19_256x240.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-icons_ffbc0f_256x240.png" />
+    <Content Include="Content\themes\Supercharged\images\ui-icons_ffc905_256x240.png" />
+    <Content Include="Content\themes\Supercharged\jquery-ui-1.9.0.custom.css" />
+    <Content Include="Controls\TypeAdd.ascx" />
+    <Content Include="Check\UJournal.aspx" />
+    <Content Include="Controls\ClientPerson.ascx" />
+    <Content Include="Controls\FAbonDet.ascx" />
+    <Content Include="Controls\MessageBox.ascx" />
+    <Content Include="Controls\sub\NotificationLabel.ascx" />
+    <Content Include="Controls\UAbonDet.ascx" />
+    <Content Include="Controls\Vodomer.ascx" />
+    <Content Include="Controls\WaterPoint\DeviceAddWithAssign.ascx" />
+    <Content Include="Controls\WaterPoint\DeviceManager.ascx" />
+    <Content Include="Controls\Wizard.ascx" />
+    <Content Include="Css\style.css" />
+    <Content Include="Css\suggestions.css" />
+    <Content Include="Css\test.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="default.htm" />
+    <Content Include="Direction.aspx" />
+    <Content Include="Images\admin.jpg" />
+    <Content Include="Images\ajax-loader.gif" />
+    <Content Include="Images\btn_form_left.gif" />
+    <Content Include="Images\btn_form_right.gif" />
+    <Content Include="Images\btn_green_bg.gif" />
+    <Content Include="Images\btn_green_flat_arrow_left.gif" />
+    <Content Include="Images\btn_green_flat_arrow_right.gif" />
+    <Content Include="Images\business_users.png" />
+    <Content Include="Images\business_users_add.png" />
+    <Content Include="Images\check.jpeg" />
+    <Content Include="Images\favicon.ico" />
+    <Content Include="Images\free_toolbar_icons_16x16_black.png" />
+    <Content Include="Images\icons\close.png" />
+    <Content Include="Images\icons\close_white.png" />
+    <Content Include="Images\instal.png" />
+    <Content Include="Images\Key-Icon-250x250.jpg" />
+    <Content Include="Images\logout-icon.png" />
+    <Content Include="Images\pw_maze_black.png" />
+    <Content Include="Images\siz.png" />
+    <Content Include="Images\suggestions\dog1_32.png" />
+    <Content Include="Images\suggestions\dog2_32.png" />
+    <Content Include="Images\suggestions\dog3_32.png" />
+    <Content Include="Images\suggestions\dog4_32.png" />
+    <Content Include="Images\suggestions\dog5_32.png" />
+    <Content Include="Images\suggestions\loadinfo_net.gif" />
+    <Content Include="LogOut.aspx" />
+    <Content Include="Scripts\amplify-vsdoc.js" />
+    <Content Include="Scripts\amplify.js" />
+    <Content Include="Scripts\amplify.min.js" />
+    <Content Include="Scripts\GPL-LICENSE.txt" />
+    <Content Include="Scripts\iframe.js" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Scripts\jquery-1.8.3-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.8.3.js" />
+    <Content Include="Scripts\jquery-1.8.3.min.js" />
+    <Content Include="Scripts\jquery-ui-1.9.2.js" />
+    <Content Include="Scripts\jquery-ui-1.9.2.min.js" />
+    <Content Include="Scripts\json2.js" />
+    <Content Include="Scripts\json2.min.js" />
+    <Content Include="Scripts\juice.js" />
+    <Content Include="Scripts\juice.min.js" />
+    <Content Include="Scripts\menu\jquery-latest.js" />
+    <Content Include="Scripts\menu\jquery.js" />
+    <Content Include="Scripts\menu\jquery_002.js" />
+    <Content Include="Scripts\MIT-LICENSE.txt" />
+    <Content Include="Scripts\prototype-1.6.0.3.js" />
+    <Content Include="Scripts\README.txt" />
+    <Content Include="Suggestions.asmx" />
+    <Content Include="test.aspx" />
+    <Content Include="Utility.asmx" />
+    <Content Include="WaterPoint\DeviceAdd.aspx" />
+    <Content Include="WaterPoint\ReportRate.aspx" />
+    <Content Include="WaterPoint\Statements.aspx" />
+    <Content Include="WaterPoint\WPList.aspx" />
+    <Content Include="WaterPoint\LocationAdd.aspx" />
+    <Content Include="WaterPoint\ServiceAdd.aspx" />
+    <Content Include="WaterPoint\WPAdd.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountParsing.aspx.cs">
+      <DependentUpon>AccountParsing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AccountParsing.aspx.designer.cs">
+      <DependentUpon>AccountParsing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\admin.master.cs">
+      <DependentUpon>admin.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\admin.master.designer.cs">
+      <DependentUpon>admin.master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminLogOut.aspx.cs">
+      <DependentUpon>AdminLogOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminLogOut.aspx.designer.cs">
+      <DependentUpon>AdminLogOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Panel.aspx.cs">
+      <DependentUpon>Panel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Panel.aspx.designer.cs">
+      <DependentUpon>Panel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Permissions.aspx.cs">
+      <DependentUpon>Permissions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Permissions.aspx.designer.cs">
+      <DependentUpon>Permissions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UserDetails.aspx.cs">
+      <DependentUpon>UserDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\UserDetails.aspx.designer.cs">
+      <DependentUpon>UserDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UserListing.aspx.cs">
+      <DependentUpon>UserListing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\UserListing.aspx.designer.cs">
+      <DependentUpon>UserListing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Code\DAO\BookDAO.cs" />
+    <Compile Include="App_Code\DAO\CustomRetrieverDAO.cs" />
+    <Compile Include="App_Code\DAO\FAbonentDAO.cs" />
+    <Compile Include="App_Code\DAO\FOrderDAO.cs" />
+    <Compile Include="App_Code\DAO\FOrderDetailsDAO.cs" />
+    <Compile Include="App_Code\DAO\PermissionDAO.cs" />
+    <Compile Include="App_Code\DAO\SellerDAO.cs" />
+    <Compile Include="App_Code\DAO\UAbonentDAO.cs" />
+    <Compile Include="App_Code\DAO\UniversalDAO.cs" />
+    <Compile Include="App_Code\DAO\UOrderDAO.cs" />
+    <Compile Include="App_Code\DAO\UOrderDetailsDAO.cs" />
+    <Compile Include="App_Code\DAO\UserDAO.cs" />
+    <Compile Include="App_Code\DAO\VodomerDAO.cs" />
+    <Compile Include="App_Code\DAO\VodomerTypeDAO.cs" />
+    <Compile Include="App_Code\DAO\WPDAO.cs" />
+    <Compile Include="App_Code\DAO\WPDeviceDAO.cs" />
+    <Compile Include="App_Code\DomainObjects\BookDO.cs" />
+    <Compile Include="App_Code\DomainObjects\CustomRetrieverDO.cs" />
+    <Compile Include="App_Code\DomainObjects\FAbonentDO.cs" />
+    <Compile Include="App_Code\DomainObjects\FOrderDetailsDO.cs" />
+    <Compile Include="App_Code\DomainObjects\FOrderDO.cs" />
+    <Compile Include="App_Code\DomainObjects\PermissionDO.cs" />
+    <Compile Include="App_Code\DomainObjects\SellerDO.cs" />
+    <Compile Include="App_Code\DomainObjects\UAbonentDO.cs" />
+    <Compile Include="App_Code\DomainObjects\UniversalDO.cs" />
+    <Compile Include="App_Code\DomainObjects\UOrderDetailsDO.cs" />
+    <Compile Include="App_Code\DomainObjects\UOrderDO.cs" />
+    <Compile Include="App_Code\DomainObjects\UserDO.cs" />
+    <Compile Include="App_Code\DomainObjects\VodomerDO.cs" />
+    <Compile Include="App_Code\DomainObjects\VodomerTypeDO.cs" />
+    <Compile Include="App_Code\DomainObjects\WatePointDO.cs" />
+    <Compile Include="App_Code\DomainObjects\WPDeviceDO.cs" />
+    <Compile Include="App_Code\Entities\Book.cs" />
+    <Compile Include="App_Code\Entities\Error.cs" />
+    <Compile Include="App_Code\Entities\FAbonent.cs" />
+    <Compile Include="App_Code\Entities\FOrder.cs" />
+    <Compile Include="App_Code\Entities\FOrderDetails.cs" />
+    <Compile Include="App_Code\Entities\OrderDetails.cs" />
+    <Compile Include="App_Code\Entities\Permission.cs" />
+    <Compile Include="App_Code\Entities\Seller.cs" />
+    <Compile Include="App_Code\Entities\Tmp.cs" />
+    <Compile Include="App_Code\Entities\UAbonent.cs" />
+    <Compile Include="App_Code\Entities\UniversalEntity.cs" />
+    <Compile Include="App_Code\Entities\UOrder.cs" />
+    <Compile Include="App_Code\Entities\UOrderDetails.cs" />
+    <Compile Include="App_Code\Entities\User.cs" />
+    <Compile Include="App_Code\Entities\Vodomer.cs" />
+    <Compile Include="App_Code\Entities\VodomerType.cs" />
+    <Compile Include="App_Code\Entities\WaterPoint.cs" />
+    <Compile Include="App_Code\Entities\WPDevice.cs" />
+    <Compile Include="App_Code\Entities\WPEvent.cs" />
+    <Compile Include="App_Code\Entities\WPLocation.cs" />
+    <Compile Include="App_Code\Error.cs" />
+    <Compile Include="App_Code\ExportToExcel.cs" />
+    <Compile Include="App_Code\Suggestions.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="App_Code\SumToString.cs" />
+    <Compile Include="App_Code\ULControl.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="App_Code\ULPage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="App_Code\Utilities.cs" />
+    <Compile Include="App_Code\Utility.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadAsyncUpload.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadAsyncUpload.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadAutoCompleteBox.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadAutoCompleteBox.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadComboBox.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadComboBox.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadDataPager.Main.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadDataPager.Main.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadEditor.Dialogs.de-DE.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadEditor.Dialogs.de-DE.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadEditor.Dialogs.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadEditor.Dialogs.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadEditor.Dialogs.fr-FR.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadEditor.Dialogs.fr-FR.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadEditor.Main.de-DE.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadEditor.Main.de-DE.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadEditor.Main.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadEditor.Main.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadEditor.Main.fr-FR.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadEditor.Main.fr-FR.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadEditor.Modules.de-DE.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadEditor.Modules.de-DE.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadEditor.Modules.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadEditor.Modules.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadEditor.Modules.fr-FR.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadEditor.Modules.fr-FR.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadEditor.Tools.de-DE.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadEditor.Tools.de-DE.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadEditor.Tools.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadEditor.Tools.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadEditor.Tools.fr-FR.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadEditor.Tools.fr-FR.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadFilter.Main.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadFilter.Main.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadFilter.Main.ru-RU.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadFilter.Main.ru-RU.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadGrid.Main.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadGrid.Main.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadImageEditor.Dialogs.de-DE.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadImageEditor.Dialogs.de-DE.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadImageEditor.Dialogs.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadImageEditor.Dialogs.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadImageEditor.Dialogs.fr-FR.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadImageEditor.Dialogs.fr-FR.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadImageEditor.Main.de-DE.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadImageEditor.Main.de-DE.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadImageEditor.Main.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadImageEditor.Main.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadImageEditor.Main.fr-FR.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadImageEditor.Main.fr-FR.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadListBox.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadListBox.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadPivotGrid.Main.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadPivotGrid.Main.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadProgressArea.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadProgressArea.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadScheduler.Main.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadScheduler.Main.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadSchedulerRecurrenceEditor.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadSchedulerRecurrenceEditor.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadSearchBox.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadSearchBox.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadSpell.Dialog.de-DE.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadSpell.Dialog.de-DE.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadSpell.Dialog.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadSpell.Dialog.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadSpell.Dialog.fr-FR.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadSpell.Dialog.fr-FR.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadTreeList.Main.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadTreeList.Main.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\RadUpload.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RadUpload.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Check\AddAbonent.aspx.cs">
+      <DependentUpon>AddAbonent.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Check\AddAbonent.aspx.designer.cs">
+      <DependentUpon>AddAbonent.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Check\FabonentDet.aspx.cs">
+      <DependentUpon>FabonentDet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Check\FabonentDet.aspx.designer.cs">
+      <DependentUpon>FabonentDet.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Check\FJournal.aspx.cs">
+      <DependentUpon>FJournal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Check\FJournal.aspx.designer.cs">
+      <DependentUpon>FJournal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Check\PaymentViewer.aspx.cs">
+      <DependentUpon>PaymentViewer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Check\PaymentViewer.aspx.designer.cs">
+      <DependentUpon>PaymentViewer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Check\Registry.aspx.cs">
+      <DependentUpon>Registry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Check\Registry.aspx.designer.cs">
+      <DependentUpon>Registry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Check\Report.aspx.cs">
+      <DependentUpon>Report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Check\Report.aspx.designer.cs">
+      <DependentUpon>Report.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Check\Sellers.aspx.cs">
+      <DependentUpon>Sellers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Check\Sellers.aspx.designer.cs">
+      <DependentUpon>Sellers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Check\UAbonentDet.aspx.cs">
+      <DependentUpon>UAbonentDet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Check\UAbonentDet.aspx.designer.cs">
+      <DependentUpon>UAbonentDet.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TypeAdd.ascx.cs">
+      <DependentUpon>TypeAdd.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\TypeAdd.ascx.designer.cs">
+      <DependentUpon>TypeAdd.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Check\UJournal.aspx.cs">
+      <DependentUpon>UJournal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Check\UJournal.aspx.designer.cs">
+      <DependentUpon>UJournal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ClientPerson.ascx.cs">
+      <DependentUpon>ClientPerson.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\ClientPerson.ascx.designer.cs">
+      <DependentUpon>ClientPerson.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\FAbonDet.ascx.cs">
+      <DependentUpon>FAbonDet.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\FAbonDet.ascx.designer.cs">
+      <DependentUpon>FAbonDet.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MessageBox.ascx.cs">
+      <DependentUpon>MessageBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\MessageBox.ascx.designer.cs">
+      <DependentUpon>MessageBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\sub\NotificationLabel.ascx.cs">
+      <DependentUpon>NotificationLabel.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\sub\NotificationLabel.ascx.designer.cs">
+      <DependentUpon>NotificationLabel.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\UAbonDet.ascx.cs">
+      <DependentUpon>UAbonDet.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\UAbonDet.ascx.designer.cs">
+      <DependentUpon>UAbonDet.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Vodomer.ascx.cs">
+      <DependentUpon>Vodomer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\Vodomer.ascx.designer.cs">
+      <DependentUpon>Vodomer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\WaterPoint\DeviceAddWithAssign.ascx.cs">
+      <DependentUpon>DeviceAddWithAssign.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\WaterPoint\DeviceAddWithAssign.ascx.designer.cs">
+      <DependentUpon>DeviceAddWithAssign.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\WaterPoint\DeviceManager.ascx.cs">
+      <DependentUpon>DeviceManager.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\WaterPoint\DeviceManager.ascx.designer.cs">
+      <DependentUpon>DeviceManager.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Wizard.ascx.cs">
+      <DependentUpon>Wizard.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\Wizard.ascx.designer.cs">
+      <DependentUpon>Wizard.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Direction.aspx.cs">
+      <DependentUpon>Direction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Direction.aspx.designer.cs">
+      <DependentUpon>Direction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GetDocument.ashx.cs">
+      <DependentUpon>GetDocument.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="LogOut.aspx.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LogOut.aspx.designer.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Main.master.cs">
+      <DependentUpon>Main.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Main.master.designer.cs">
+      <DependentUpon>Main.master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="test.aspx.cs">
+      <DependentUpon>test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="test.aspx.designer.cs">
+      <DependentUpon>test.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WaterPoint\DeviceAdd.aspx.cs">
+      <DependentUpon>DeviceAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WaterPoint\DeviceAdd.aspx.designer.cs">
+      <DependentUpon>DeviceAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WaterPoint\ReportRate.aspx.cs">
+      <DependentUpon>ReportRate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WaterPoint\ReportRate.aspx.designer.cs">
+      <DependentUpon>ReportRate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WaterPoint\Statements.aspx.cs">
+      <DependentUpon>Statements.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WaterPoint\Statements.aspx.designer.cs">
+      <DependentUpon>Statements.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WaterPoint\WPList.aspx.cs">
+      <DependentUpon>WPList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WaterPoint\WPList.aspx.designer.cs">
+      <DependentUpon>WPList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WaterPoint\LocationAdd.aspx.cs">
+      <DependentUpon>LocationAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WaterPoint\LocationAdd.aspx.designer.cs">
+      <DependentUpon>LocationAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WaterPoint\ServiceAdd.aspx.cs">
+      <DependentUpon>ServiceAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WaterPoint\ServiceAdd.aspx.designer.cs">
+      <DependentUpon>ServiceAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WaterPoint\WP.Master.cs">
+      <DependentUpon>WP.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WaterPoint\WP.Master.designer.cs">
+      <DependentUpon>WP.Master</DependentUpon>
+    </Compile>
+    <Compile Include="WaterPoint\WPAdd.aspx.cs">
+      <DependentUpon>WPAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WaterPoint\WPAdd.aspx.designer.cs">
+      <DependentUpon>WPAdd.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Css\menu\" />
+    <Folder Include="Images\menu\" />
+    <Folder Include="Templates\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Main.master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\admin.master" />
+    <Content Include="GetDocument.ashx" />
+    <None Include="App_Data\RadSpell\de-DE.tdf" />
+    <None Include="App_Data\RadSpell\en-US.tdf" />
+    <None Include="App_Data\RadSpell\fr-FR.tdf" />
+    <None Include="Images\icons\Thumbs.db" />
+    <Content Include="packages.config" />
+    <Content Include="WaterPoint\WP.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_GlobalResources\RadFilter.Main.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadFilter.Main.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadGrid.Main.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadGrid.Main.designer.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_GlobalResources\RadFilter.Main.ru-RU.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadFilter.Main.ru-RU.designer.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_GlobalResources\RadAsyncUpload.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadAsyncUpload.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadAutoCompleteBox.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadAutoCompleteBox.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadComboBox.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadComboBox.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadDataPager.Main.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadDataPager.Main.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadEditor.Dialogs.de-DE.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadEditor.Dialogs.de-DE.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadEditor.Dialogs.fr-FR.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadEditor.Dialogs.fr-FR.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadEditor.Dialogs.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadEditor.Dialogs.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadEditor.Main.de-DE.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadEditor.Main.de-DE.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadEditor.Main.fr-FR.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadEditor.Main.fr-FR.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadEditor.Main.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadEditor.Main.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadEditor.Modules.de-DE.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadEditor.Modules.de-DE.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadEditor.Modules.fr-FR.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadEditor.Modules.fr-FR.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadEditor.Modules.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadEditor.Modules.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadEditor.Tools.de-DE.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadEditor.Tools.de-DE.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadEditor.Tools.fr-FR.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadEditor.Tools.fr-FR.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadEditor.Tools.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadEditor.Tools.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadImageEditor.Dialogs.de-DE.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadImageEditor.Dialogs.de-DE.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadImageEditor.Dialogs.fr-FR.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadImageEditor.Dialogs.fr-FR.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadImageEditor.Dialogs.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadImageEditor.Dialogs.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadImageEditor.Main.de-DE.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadImageEditor.Main.de-DE.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadImageEditor.Main.fr-FR.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadImageEditor.Main.fr-FR.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadImageEditor.Main.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadImageEditor.Main.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadListBox.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadListBox.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadPivotGrid.Main.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadPivotGrid.Main.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadProgressArea.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadProgressArea.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadScheduler.Main.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadScheduler.Main.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadSchedulerRecurrenceEditor.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadSchedulerRecurrenceEditor.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadSearchBox.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadSearchBox.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadSpell.Dialog.de-DE.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadSpell.Dialog.de-DE.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadSpell.Dialog.fr-FR.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadSpell.Dialog.fr-FR.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadSpell.Dialog.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadSpell.Dialog.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadTreeList.Main.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadTreeList.Main.designer.cs</LastGenOutput>
+    </Content>
+    <Content Include="App_GlobalResources\RadUpload.resx">
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>RadUpload.designer.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>False</AutoAssignPort>
+          <DevelopmentServerPort>1711</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+      <UserProperties UseJQuerySupport="True" UseAjaxifiedTemplates="True" />
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

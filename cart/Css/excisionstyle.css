@@ -1,0 +1,26 @@
+﻿li.rlbItem .rlbText {
+            color: red;
+        }
+         
+.message {
+    line-height: 37px;
+}
+ 
+.RadGrid .rgRow,
+.RadGrid .rgAltRow {
+    height: 30px;
+}
+ 
+.RadGrid_Silk .rgRow,
+.RadGrid_Silk .rgAltRow,
+.RadGrid_Glow .rgRow,
+.RadGrid_Glow .rgAltRow {
+    height: 36px;
+}
+ 
+.RadGrid_MetroTouch .rgRow,
+.RadGrid_MetroTouch .rgAltRow,
+.RadGrid_BlackMetroTouch .rgRow,
+.RadGrid_BlackMetroTouch .rgAltRow {
+    height: 46px;
+}

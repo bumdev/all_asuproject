@@ -1,0 +1,7 @@
+E:\воркище\Инвентаризация\Inventory(05.12.2017)\obj\Debug\invent_app.csprojResolveAssemblyReference.cache
+E:\воркище\Инвентаризация\Inventory(05.12.2017)\bin\invent_app.dll.config
+E:\воркище\Инвентаризация\Inventory(05.12.2017)\bin\invent_app.dll
+E:\воркище\Инвентаризация\Inventory(05.12.2017)\bin\invent_app.pdb
+E:\воркище\Инвентаризация\Inventory(05.12.2017)\obj\Debug\invent_app.dll
+E:\воркище\Инвентаризация\Inventory(05.12.2017)\obj\Debug\invent_app.pdb
+E:\воркище\Инвентаризация\Inventory(05.12.2017)\bin\FirebirdSql.Data.FirebirdClient.dll

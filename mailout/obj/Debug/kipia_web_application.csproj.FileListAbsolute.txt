@@ -1,0 +1,491 @@
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\kipia_web_application.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\kipia_web_application.pdb
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\AjaxControlToolkit.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\ConvincingMail.AdvancedAutoSuggest.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\DocX.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\UrbanControls.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\ar\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\cs\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\de\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\es\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\fr\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\he\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\hi\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\it\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\ja\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\ko\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\nl\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\pt\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\ru\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\obj\Debug\kipia_web_application.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\obj\Debug\kipia_web_application.pdb
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\Ionic.Zip.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\NPOI.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\NPOI.xml
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\JuiceUI.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\Telerik.Web.UI.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\Telerik.Web.UI.Skins.dll
+C:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\Telerik.Web.UI.xml
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\obj\Debug\kipia_web_application.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\kipia_web_application.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\kipia_web_application.pdb
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\AjaxControlToolkit.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\ConvincingMail.AdvancedAutoSuggest.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\Excel.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\ICSharpCode.SharpZipLib.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\Ionic.Zip.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\JuiceUI.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\NPOI.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\Telerik.Web.UI.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\Telerik.Web.UI.Skins.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\UrbanControls.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\Excel.pdb
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\NPOI.xml
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\Telerik.Web.UI.xml
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\ar\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\cs\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\de\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\es\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\fr\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\he\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\hi\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\it\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\ja\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\ko\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\nl\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\pt\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\ru\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\obj\Debug\kipia_web_application.pdb
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+D:\Documents and Settings\komisarenkoAp\Мои документы\Visual Studio 2010\Projects\kipia_web_application\kipia_web_application\bin\ExcelLibrary.dll
+\\db2\KIPiA\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+\\db2\KIPiA\obj\Debug\kipia_web_application.dll
+E:\06.04.2015\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\06.04.2015\obj\Debug\kipia_web_application.dll
+E:\06.04.2015\bin\kipia_web_application.dll.config
+E:\06.04.2015\bin\kipia_web_application.dll
+E:\06.04.2015\bin\kipia_web_application.pdb
+E:\06.04.2015\bin\Excel.pdb
+E:\06.04.2015\bin\NPOI.xml
+E:\06.04.2015\bin\Telerik.Web.UI.xml
+E:\06.04.2015\bin\ar\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\cs\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\de\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\es\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\fr\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\he\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\hi\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\it\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\ja\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\ko\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\nl\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\pt\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\ru\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\06.04.2015\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\06.04.2015\obj\Debug\kipia_web_application.pdb
+E:\06.04.2015 (main worked)\bin\kipia_web_application.dll.config
+E:\06.04.2015 (main worked)\bin\kipia_web_application.dll
+E:\06.04.2015 (main worked)\bin\kipia_web_application.pdb
+E:\06.04.2015 (main worked)\bin\Excel.pdb
+E:\06.04.2015 (main worked)\bin\NPOI.xml
+E:\06.04.2015 (main worked)\bin\Telerik.Web.UI.xml
+E:\06.04.2015 (main worked)\bin\ar\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\cs\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\de\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\es\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\fr\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\he\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\hi\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\it\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\ja\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\ko\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\nl\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\pt\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\ru\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main worked)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\06.04.2015 (main worked)\obj\Debug\kipia_web_application.dll
+E:\06.04.2015 (main worked)\obj\Debug\kipia_web_application.pdb
+E:\06.04.2015 (main)\bin\kipia_web_application.dll.config
+E:\06.04.2015 (main)\bin\kipia_web_application.dll
+E:\06.04.2015 (main)\bin\kipia_web_application.pdb
+E:\06.04.2015 (main)\bin\Excel.pdb
+E:\06.04.2015 (main)\bin\NPOI.xml
+E:\06.04.2015 (main)\bin\Telerik.Web.UI.xml
+E:\06.04.2015 (main)\bin\ar\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\cs\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\de\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\es\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\fr\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\he\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\hi\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\it\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\ja\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\ko\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\nl\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\pt\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\ru\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\06.04.2015 (main)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\06.04.2015 (main)\obj\Debug\kipia_web_application.dll
+E:\06.04.2015 (main)\obj\Debug\kipia_web_application.pdb
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\kipia_web_application.dll.config
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\kipia_web_application.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\kipia_web_application.pdb
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\Excel.pdb
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\NPOI.xml
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\Telerik.Web.UI.xml
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\ar\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\cs\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\de\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\es\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\fr\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\he\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\hi\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\it\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\ja\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\ko\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\nl\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\pt\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\ru\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\obj\Debug\kipia_web_application.dll
+E:\воркище\08.06.2015 (чистый(без квитанции юр лиц, поиска по ОКПО))\06.04.2015 (main)\obj\Debug\kipia_web_application.pdb
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\kipia_web_application.dll.config
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\kipia_web_application.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\kipia_web_application.pdb
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\Excel.pdb
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\NPOI.xml
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\Telerik.Web.UI.xml
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\ar\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\cs\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\de\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\es\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\fr\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\he\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\hi\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\it\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\ja\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\ko\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\nl\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\pt\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\ru\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\obj\Debug\kipia_web_application.dll
+E:\воркище\09.06.2015 (кнопка сохранения в юр лицах + поиск по ОКПО в юр лицах)\06.04.2015 (main)\obj\Debug\kipia_web_application.pdb
+E:\воркище\10.06.15 kipia\bin\kipia_web_application.dll.config
+E:\воркище\10.06.15 kipia\bin\kipia_web_application.dll
+E:\воркище\10.06.15 kipia\bin\kipia_web_application.pdb
+E:\воркище\10.06.15 kipia\bin\Excel.pdb
+E:\воркище\10.06.15 kipia\bin\NPOI.xml
+E:\воркище\10.06.15 kipia\bin\Telerik.Web.UI.xml
+E:\воркище\10.06.15 kipia\bin\ar\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\cs\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\de\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\es\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\fr\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\he\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\hi\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\it\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\ja\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\ko\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\nl\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\pt\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\ru\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\воркище\10.06.15 kipia\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\10.06.15 kipia\obj\Debug\kipia_web_application.dll
+E:\воркище\10.06.15 kipia\obj\Debug\kipia_web_application.pdb
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\kipia_web_application.dll.config
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\kipia_web_application.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\kipia_web_application.pdb
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\Excel.pdb
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\NPOI.xml
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\Telerik.Web.UI.xml
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\ar\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\cs\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\de\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\es\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\fr\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\he\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\hi\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\it\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\ja\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\ko\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\nl\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\pt\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\ru\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\02.07.2015 (отступы в квитанциях)\obj\Debug\kipia_web_application.dll
+E:\воркище\02.07.2015 (отступы в квитанциях)\obj\Debug\kipia_web_application.pdb
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\kipia_web_application.dll.config
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\kipia_web_application.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\kipia_web_application.pdb
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\Excel.pdb
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\NPOI.xml
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\Telerik.Web.UI.xml
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\ar\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\cs\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\de\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\es\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\fr\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\he\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\hi\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\it\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\ja\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\ko\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\nl\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\pt\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\ru\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\obj\Debug\kipia_web_application.dll
+E:\воркище\25.09.2015(правка актов юрлиц - вместо цены итоговая сумма)\obj\Debug\kipia_web_application.pdb
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\kipia_web_application.dll.config
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\kipia_web_application.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\kipia_web_application.pdb
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\Excel.pdb
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\NPOI.xml
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\Telerik.Web.UI.xml
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\ar\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\cs\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\de\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\es\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\fr\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\he\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\hi\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\it\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\ja\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\ko\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\nl\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\pt\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\ru\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\02.11.2015(рублевый акт юр лица)\obj\Debug\kipia_web_application.dll
+E:\воркище\02.11.2015(рублевый акт юр лица)\obj\Debug\kipia_web_application.pdb
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\kipia_web_application.dll.config
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\kipia_web_application.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\kipia_web_application.pdb
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\Excel.pdb
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\NPOI.xml
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\Telerik.Web.UI.xml
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\ar\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\cs\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\de\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\es\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\fr\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\he\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\hi\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\it\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\ja\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\ko\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\nl\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\pt\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\ru\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\obj\Debug\kipia_web_application.dll
+E:\воркище\13.11.2015(выдан-оплачен и акт-квитанции юр лица)\obj\Debug\kipia_web_application.pdb
+E:\воркище\kipia_10_12_2015\bin\kipia_web_application.dll.config
+E:\воркище\kipia_10_12_2015\bin\kipia_web_application.dll
+E:\воркище\kipia_10_12_2015\bin\kipia_web_application.pdb
+E:\воркище\kipia_10_12_2015\bin\Excel.pdb
+E:\воркище\kipia_10_12_2015\bin\NPOI.xml
+E:\воркище\kipia_10_12_2015\bin\Telerik.Web.UI.xml
+E:\воркище\kipia_10_12_2015\bin\ar\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\cs\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\de\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\es\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\fr\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\he\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\hi\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\it\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\ja\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\ko\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\nl\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\pt\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\ru\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\воркище\kipia_10_12_2015\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\kipia_10_12_2015\obj\Debug\kipia_web_application.dll
+E:\воркище\kipia_10_12_2015\obj\Debug\kipia_web_application.pdb
+E:\воркище\14.12.2015(без новых тарифов)\bin\kipia_web_application.dll.config
+E:\воркище\14.12.2015(без новых тарифов)\bin\kipia_web_application.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\kipia_web_application.pdb
+E:\воркище\14.12.2015(без новых тарифов)\bin\Excel.pdb
+E:\воркище\14.12.2015(без новых тарифов)\bin\NPOI.xml
+E:\воркище\14.12.2015(без новых тарифов)\bin\Telerik.Web.UI.xml
+E:\воркище\14.12.2015(без новых тарифов)\bin\ar\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\cs\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\de\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\es\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\fr\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\he\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\hi\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\it\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\ja\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\ko\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\nl\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\pt\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\ru\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\воркище\14.12.2015(без новых тарифов)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\14.12.2015(без новых тарифов)\obj\Debug\kipia_web_application.dll
+E:\воркище\14.12.2015(без новых тарифов)\obj\Debug\kipia_web_application.pdb
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\kipia_web_application.dll.config
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\kipia_web_application.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\kipia_web_application.pdb
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\Excel.pdb
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\NPOI.xml
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\Telerik.Web.UI.xml
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\ar\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\cs\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\de\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\es\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\fr\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\he\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\hi\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\it\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\ja\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\ko\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\nl\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\pt\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\ru\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\новые тарифы\01.03.2016(с браком)\obj\Debug\kipia_web_application.dll
+E:\воркище\новые тарифы\01.03.2016(с браком)\obj\Debug\kipia_web_application.pdb
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\kipia_web_application.dll.config
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\kipia_web_application.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\kipia_web_application.pdb
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\Excel.pdb
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\NPOI.xml
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\Telerik.Web.UI.xml
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\obj\Debug\kipia_web_application.dll
+C:\Users\OnischenkoKK\Desktop\kipia_24032016\obj\Debug\kipia_web_application.pdb
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\kipia_web_application.dll.config
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\kipia_web_application.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\kipia_web_application.pdb
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\Excel.pdb
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\NPOI.xml
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\Telerik.Web.UI.xml
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\ar\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\cs\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\de\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\es\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\fr\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\he\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\hi\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\it\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\ja\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\ko\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\nl\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\pt\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\ru\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\obj\Debug\kipia_web_application.dll
+E:\воркище\новые тарифы\24.03.2016(правка счетов и актов юр лица)\obj\Debug\kipia_web_application.pdb
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\obj\Debug\kipia_web_application.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\kipia_web_application.dll.config
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\kipia_web_application.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\kipia_web_application.pdb
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\Excel.pdb
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\NPOI.xml
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\Telerik.Web.UI.xml
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\ar\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\cs\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\de\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\es\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\fr\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\he\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\hi\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\it\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\ja\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\ko\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\nl\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\pt\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\ru\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\воркище\новые тарифы\06.05.2016(дополнительный режим)\obj\Debug\kipia_web_application.pdb
+E:\воркище\новые тарифы\03.06.2016(доп.режим копия без доп.классов)\bin\kipia_web_application.dll.config
+E:\воркище\новые тарифы\03.06.2016(доп.режим копия без доп.классов)\bin\kipia_web_application.dll
+E:\воркище\новые тарифы\03.06.2016(доп.режим копия без доп.классов)\bin\kipia_web_application.pdb
+E:\воркище\новые тарифы\03.06.2016(доп.режим копия без доп.классов)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\новые тарифы\03.06.2016(доп.режим копия без доп.классов)\obj\Debug\kipia_web_application.dll
+E:\воркище\новые тарифы\03.06.2016(доп.режим копия без доп.классов)\obj\Debug\kipia_web_application.pdb
+E:\воркище\новые тарифы\03.06.2016(доп.режим копия без доп.классов)\bin\kipia_web_application.dll.CodeAnalysisLog.xml
+E:\воркище\новые тарифы\03.06.2016(доп.режим копия без доп.классов)\bin\kipia_web_application.dll.lastcodeanalysissucceeded
+E:\воркище\новые тарифы\28.06.2016(working copy)\bin\kipia_web_application.dll.config
+E:\воркище\новые тарифы\28.06.2016(working copy)\bin\kipia_web_application.dll
+E:\воркище\новые тарифы\28.06.2016(working copy)\bin\kipia_web_application.pdb
+E:\воркище\новые тарифы\28.06.2016(working copy)\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\новые тарифы\28.06.2016(working copy)\obj\Debug\kipia_web_application.dll
+E:\воркище\новые тарифы\28.06.2016(working copy)\obj\Debug\kipia_web_application.pdb
+E:\воркище\Общий Отдел (исходящая почта)\Outcoming mail\bin\kipia_web_application.dll.config
+E:\воркище\Общий Отдел (исходящая почта)\Outcoming mail\bin\kipia_web_application.dll
+E:\воркище\Общий Отдел (исходящая почта)\Outcoming mail\bin\kipia_web_application.pdb
+E:\воркище\Общий Отдел (исходящая почта)\Outcoming mail\obj\Debug\kipia_web_application.csprojResolveAssemblyReference.cache
+E:\воркище\Общий Отдел (исходящая почта)\Outcoming mail\obj\Debug\kipia_web_application.dll
+E:\воркище\Общий Отдел (исходящая почта)\Outcoming mail\obj\Debug\kipia_web_application.pdb

@@ -1,0 +1,13 @@
+E:\воркище\Картриджи\Cartridges(19.10.2017)\bin\cartridges_app.dll.config
+E:\воркище\Картриджи\Cartridges(19.10.2017)\bin\cartridges_app.dll
+E:\воркище\Картриджи\Cartridges(19.10.2017)\bin\cartridges_app.pdb
+E:\воркище\Картриджи\Cartridges(19.10.2017)\obj\Debug\cartridges_app.csprojResolveAssemblyReference.cache
+E:\воркище\Картриджи\Cartridges(19.10.2017)\obj\Debug\cartridges_app.dll
+E:\воркище\Картриджи\Cartridges(19.10.2017)\obj\Debug\cartridges_app.pdb
+E:\воркище\Картриджи\Cartridges(19.02.2018[1])\bin\cartridges_app.dll.config
+E:\воркище\Картриджи\Cartridges(19.02.2018[1])\bin\cartridges_app.dll
+E:\воркище\Картриджи\Cartridges(19.02.2018[1])\bin\cartridges_app.pdb
+E:\воркище\Картриджи\Cartridges(19.02.2018[1])\obj\Debug\cartridges_app.csprojResolveAssemblyReference.cache
+E:\воркище\Картриджи\Cartridges(19.02.2018[1])\obj\Debug\cartridges_app.dll
+E:\воркище\Картриджи\Cartridges(19.02.2018[1])\obj\Debug\cartridges_app.pdb
+E:\воркище\Картриджи\Cartridges(19.02.2018[1])\bin\Telerik.Web.UI.dll

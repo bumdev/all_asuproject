@@ -1,0 +1,74 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPageSingleMenu.master.cs" Inherits="ClericalWork_WebApp.MasterPageSingleMenu" %>
+<%@ Register TagPrefix="telerik" Namespace="Telerik.Web.UI" Assembly="Telerik.Web.UI" %>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta name="viewport" content="initial-scale=1.0, minimum-scale=1, maximum-scale=1.0, user-scalable=no" />
+    <link href="styles/base.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <telerik:RadScriptManager runat="server"></telerik:RadScriptManager>
+        <div id="wrapper">
+            <a href="#" class="logo">
+                <img src="images/logo_2.png" alt="site logo" />
+            </a>
+            <div class="header">
+                <telerik:RadMenu ID="RadMenu1" CssClass="mainMenu" runat="server" RenderMode="Auto" ShowToggleHandle="true">
+                    <Items>
+                        <telerik:RadMenuItem Text="Главная" NavigateUrl="Home.aspx" />
+                                    <telerik:RadMenuItem IsSeparator="true" />
+                                    <telerik:RadMenuItem Text="Входящая почта" NavigateUrl="InComMail.aspx" />
+                                    <telerik:RadMenuItem IsSeparator="true" />
+                                    <telerik:RadMenuItem Text="Жалобы" NavigateUrl="Complaints.aspx" />
+                                    <telerik:RadMenuItem IsSeparator="true" />
+                                    <telerik:RadMenuItem Text="Протоколы" />
+                                    <telerik:RadMenuItem IsSeparator="true" />
+                                    <telerik:RadMenuItem Text="Справочники">
+                                        <Items>
+                                            <telerik:RadMenuItem runat="server" Text="Службы" NavigateUrl="ServiceClericalWork.aspx" />
+                                            <telerik:RadMenuItem runat="server" IsSeparator="true" />
+                                            <telerik:RadMenuItem runat="server" Text="Ответственные исполнители" NavigateUrl="ResponsibleContractor.aspx" />
+                                            <telerik:RadMenuItem runat="server" IsSeparator="true" />
+                                            <telerik:RadMenuItem runat="server" Text="Районы" NavigateUrl="DirectoryDistrict.aspx" />
+                                            <telerik:RadMenuItem runat="server" IsSeparator="true" />
+                                            <telerik:RadMenuItem runat="server" Text="Типы вопросов жалоб" NavigateUrl="QuestionType.aspx" />
+                                            <telerik:RadMenuItem runat="server" IsSeparator="true" />
+                                            <telerik:RadMenuItem runat="server" Text="Категории жалоб" NavigateUrl="CategoryComplaints.aspx" />
+                                            <telerik:RadMenuItem runat="server" IsSeparator="true" />
+                                            <telerik:RadMenuItem runat="server" Text="Типы организаций" NavigateUrl="Organizations.aspx" />
+                                            <telerik:RadMenuItem runat="server" IsSeparator="true" />
+                                            <telerik:RadMenuItem runat="server" Text="Типы почты" NavigateUrl="TypeMail.aspx" />
+                                            <telerik:RadMenuItem runat="server" IsSeparator="true" />
+                                            <telerik:RadMenuItem runat="server" Text="Органы передавшие жалобу или почту" NavigateUrl="EnterprisesType.aspx" />
+                                            <telerik:RadMenuItem runat="server" IsSeparator="true" />
+                                        </Items>
+                                    </telerik:RadMenuItem>
+                                    <telerik:RadMenuItem Text="Отчеты" NavigateUrl="ClericalReports.aspx" />
+                                    <telerik:RadMenuItem IsSeparator="true" />
+                                    <telerik:RadMenuItem Text="Администраторская панель" NavigateUrl="Admin/Default.aspx" />
+                                    <telerik:RadMenuItem IsSeparator="true" />
+                                    <telerik:RadMenuItem Text="Выход" NavigateUrl="LogOut.aspx" />
+                                    <telerik:RadMenuItem IsSeparator="true" />
+                                    <%--<telerik:RadMenuItem Text="..." />
+                                    <telerik:RadMenuItem IsSeparator="true" />
+                                    <telerik:RadMenuItem Text="Contacts" />--%>
+                    </Items>
+                </telerik:RadMenu>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr style="margin-top: 40px" />
+            <div class="footer">
+               © 2018 WDK Inc, ул. Щорса 110
+            </div>
+        </div>
+    </form>
+</body>
+</html>

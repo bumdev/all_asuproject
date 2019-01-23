@@ -1,0 +1,84 @@
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\bin\Timetable_WebApp.dll.config
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\bin\Timetable_WebApp.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\bin\Timetable_WebApp.pdb
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\bin\Newtonsoft.Json.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\obj\Debug\Timetable_WebApp.csprojResolveAssemblyReference.cache
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\obj\Debug\Timetable_WebApp.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\obj\Debug\Timetable_WebApp.pdb
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\bin\AjaxControlToolkit.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\bin\JuiceUI.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\obj\Debug\Timetable_WebApp.dll.licenses
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\Timetable_WebApp.dll.config
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\Timetable_WebApp.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\Timetable_WebApp.pdb
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\AjaxControlToolkit.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\JuiceUI.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\Newtonsoft.Json.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\Telerik.Web.Spreadsheet.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\Telerik.Web.UI.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\Telerik.Windows.Documents.Core.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\Telerik.Windows.Documents.Flow.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\Telerik.Windows.Documents.Spreadsheet.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\bin\Telerik.Windows.Zip.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\obj\Debug\Timetable_WebApp.csprojResolveAssemblyReference.cache
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\obj\Debug\Timetable_WebApp.dll.licenses
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\obj\Debug\Timetable_WebApp.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[15])\obj\Debug\Timetable_WebApp.pdb
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\Timetable_WebApp.dll.config
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\Timetable_WebApp.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\Timetable_WebApp.pdb
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\AjaxControlToolkit.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\JuiceUI.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\Newtonsoft.Json.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\Telerik.Web.Spreadsheet.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\Telerik.Web.UI.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\Telerik.Windows.Documents.Core.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\Telerik.Windows.Documents.Flow.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\Telerik.Windows.Documents.Spreadsheet.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\bin\Telerik.Windows.Zip.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\obj\Debug\Timetable_WebApp.csprojResolveAssemblyReference.cache
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\obj\Debug\Timetable_WebApp.dll.licenses
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\obj\Debug\Timetable_WebApp.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[17])\obj\Debug\Timetable_WebApp.pdb
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\bin\Telerik.Web.UI.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\bin\Telerik.Web.UI.Skins.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018)\bin\Telerik.Web.UI.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\bin\Timetable_WebApp.dll.config
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\bin\Timetable_WebApp.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\bin\Timetable_WebApp.pdb
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\bin\AjaxControlToolkit.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\bin\JuiceUI.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\bin\Telerik.Web.UI.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\bin\Telerik.Web.UI.Skins.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\bin\Newtonsoft.Json.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\bin\Telerik.Web.UI.xml
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\obj\Debug\Timetable_WebApp.csprojResolveAssemblyReference.cache
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\obj\Debug\Timetable_WebApp.dll.licenses
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\obj\Debug\Timetable_WebApp.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\obj\Debug\Timetable_WebApp.pdb
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\bin\WindowsInput.dll
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\bin\WindowsInput.pdb
+E:\воркище\ТАБЕЛЬ\Timetable(01.04.2018[31])\bin\WindowsInput.xml
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\Timetable_WebApp.dll.config
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\Timetable_WebApp.dll
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\Timetable_WebApp.pdb
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\AjaxControlToolkit.dll
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\JuiceUI.dll
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\Telerik.Web.UI.dll
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\Telerik.Web.UI.Skins.dll
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\WindowsInput.dll
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\Newtonsoft.Json.dll
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\Telerik.Web.UI.xml
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\WindowsInput.pdb
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\WindowsInput.xml
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\obj\Debug\Timetable_WebApp.csprojResolveAssemblyReference.cache
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\obj\Debug\Timetable_WebApp.dll.licenses
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\obj\Debug\Timetable_WebApp.dll
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\obj\Debug\Timetable_WebApp.pdb
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\Telerik.Windows.Documents.Core.xml
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\Telerik.Windows.Documents.Flow.xml
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\Telerik.Windows.Documents.Spreadsheet.xml
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+E:\воркище\НА ЗАЛИВ\Timetable(01.04.2018[31])\bin\Telerik.Windows.Zip.xml
